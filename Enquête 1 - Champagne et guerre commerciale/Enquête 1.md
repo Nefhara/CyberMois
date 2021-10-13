@@ -57,6 +57,8 @@ Les informations suivantes concernent :
 Pour le prénom de sa fille, celà ne se trouve pas sur le NAS, allons voir donc du côté des réseaux sociaux. Facebook fera largement l'affaire !
 Je regarde du côté des photos, une petite fille est présente en photo de couverture avec comme description "visite chez les grands parents". Le prénom de "Mishkat" ressort.
 
+![ALT](../Referentiel/Solution_5.png)
+
 L'une des première chose pour trouver un mot de passe utilisateur, en règle général, est de chercher du côté des animaux, des enfants, des lieux d'habitations, etc.
 Pour le coup, le prénom de sa fille est présent dans certains mots de passe ainsi que le nom de chanteur que cette personne apprécie.
 
@@ -67,7 +69,7 @@ Passont maintenant à la partie "professionnelle" qui est un peu plus dur :
 
 Je retourne sur le NAS du côté partie "Pro". J'y trouve un rapport de stage "confidentiel" fait par un stagiaire très bavard. Le nom du leader d'un projet secret ultra sensible nommé "ARMAGEDON" y est présent.
 
-Rien de plus n'est présent sur le NAS. Je part donc du côté des photos que j'ai trouvées sur Facebook auparavant. Certaines photos sont prises en télé-travail avec une belle vue sur l'écran de l'ordinateur (et un mot de passe au passage), nous donnant son adresse mail professionnelle. 
+Rien de plus n'est présent sur le NAS. Je part donc du côté des photos que j'ai trouvées sur Facebook auparavant. Certaines photos sont prises en télé-travail avec une belle vue sur l'écran de l'ordinateur (et un mot de passe TINDER au passage), nous donnant son adresse mail professionnelle. 
 
 Il ne me reste plus que l'identifiant professionnelle (nom de session) et j'avoue y avoir passé un peu de temps. J'ai fouillé tous les sites ressortis par la recherche google, toutes les photos en détails pour au final retourner sur le NAS. Je me suis demandé d'où sont sortis les fichiers EXCEL, présent dans la partie professionnelle, contenant des informations financières sur les plus gros clients de la banque. 
 
