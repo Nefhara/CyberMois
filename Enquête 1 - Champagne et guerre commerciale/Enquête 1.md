@@ -6,7 +6,7 @@ Pour cette première enquête, nous allons travailler avec 3 partie :
   
 Un classement et un débriefing sont débloqués lorsque l'enquête est terminée.
 
-![ALT](CyberMois/Referentiel/1.png)
+![ALT](../Referentiel/1.png)
 
 ## BRIEFING
  
