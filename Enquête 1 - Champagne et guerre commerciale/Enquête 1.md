@@ -4,7 +4,7 @@ Pour cette première enquête, nous allons travailler avec 3 partie :
   - Méthodologie de réflexion
   - Mes réponses (11 questions)
   
-Un classement et un débriefing sont débloqués lorsque l'enquête est terminée.
+Un classement et un débriefing sont débloqués lorsque l'enquête est terminée. Le chronomètre se lance dès que démarre l'enquête.
 
 ![ALT](../Referentiel/TB_1.png)
 
@@ -90,5 +90,7 @@ Tout au long de l'enquête, l'ANSSI propose des recommendations. Par exemple, pa
 ## BONUS
 
 A la fin de l'enquête, l'ANSSI propose de gagner des points bonus en choissant le bon mot de passe.
+
+Cela me donne un total de 59 points avec une résolution en 23min et 10sec. Le classement sera figé lorsque l'enquête prendra fin.
 
 ![ALT](../Referentiel/BONUS_1.png)
