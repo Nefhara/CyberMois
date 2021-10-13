@@ -22,6 +22,7 @@ cette banque dont personne n’a jamais entendu parler auparavant. Une prime exc
 produit innovant...
 
 Referentiel/Briefing_1.png
+
 Referentiel/Briefing_2.png
  
 ## METHODOLOGIE
