@@ -21,9 +21,9 @@ De retour au bureau, vous parlez de ce tête-à-tête avec votre Directrice comm
 cette banque dont personne n’a jamais entendu parler auparavant. Une prime exceptionnelle vous est même promise si vous découvrez les secrets du fameux 
 produit innovant...
 
-Referentiel/Briefing_1.png
+![ALT](../Referentiel/Briefing_1.png)
 
-Referentiel/Briefing_2.png
+![ALT](../Referentiel/Briefing_2.png)
  
 ## METHODOLOGIE
  
